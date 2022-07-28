@@ -1,0 +1,8 @@
+{
+  "name": "FixChonkyEmbeds",
+  "description": "Fixes ultra-wide embeds.",
+  "version": "1.0.0",
+  "theme": "index.css",
+  "author": "0/0#9631",
+  "license": "Unlicense"
+}
